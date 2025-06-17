@@ -26,9 +26,8 @@ TEvoSales Frontend es una Marketplace de productos de traumatología y ortopedia
   - react-router-dom v7.6.2
   - axios v1.9.0+
 ## Requisitos previos
--Node.js v18 o superior
--npm v9 o superior (incluido con Node.js)
-
+- [Node.js](https://nodejs.org/) v18 o superior
+- [npm](https://www.npmjs.com/) v9 o superior (incluido con Node.js)
 ## Otras tecnologías empleadas (Opcionales)
 
 - [Postman](https://www.postman.com)
