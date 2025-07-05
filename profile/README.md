@@ -33,5 +33,16 @@ TEvoSales Frontend es una Marketplace de productos de traumatología y ortopedia
 - [Postman](https://www.postman.com)
 - [ResponsivelyApp](https://responsively.app)
 
+## Despliegue
+
+- [Render](https://render.com/) para el backend
+- [Clever](https://www.clever-cloud.com/) para la base de datos MySQL
+- [Netlify](https://app.netlify.com/) para el frontend
+
+## Usuario de pruebas
+
+- Username: admin
+- Password: admin123
+
 ## Autor
 - [**Ángel Miguel Aragón** - *@Algol95*](https://github.com/Algol95)
